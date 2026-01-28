@@ -18,3 +18,5 @@
 ## Documentation
 - [Changelog](CHANGELOG.md)
 - [Installation](INSTALL.md)
+
+![Logo](assets/logo.png)
