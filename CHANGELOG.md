@@ -5,3 +5,7 @@
 - Initial project structure
 - README
 - Installation instructions
+
+## [1.1.0]
+### Added
+- Input validation
