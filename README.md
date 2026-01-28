@@ -19,4 +19,8 @@
 - [Changelog](CHANGELOG.md)
 - [Installation](INSTALL.md)
 
+## Logo
 ![Logo](logo.png)
+
+## Git flow
+![Network](network.png)
