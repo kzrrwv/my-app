@@ -9,3 +9,7 @@
 ## [1.1.0]
 ### Added
 - Input validation
+
+## [1.1.1] - 2026-02-03
+### Fixed
+- Prevent division by zero
