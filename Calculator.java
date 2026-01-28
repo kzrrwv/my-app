@@ -12,12 +12,12 @@ public class Calculator {
         return num1 * num2;
     }
 
-    public double devide(double num1, double num2){
-        if(num2 == 0){
-            System.out.println("Делить на ноль нельзя!");
+    public double devide(double number1, double number2){
+        if(number2 == 0){
+            System.out.println("Невозможно поделить на ноль!");
             return Double.NaN;
         }
-        return num1 / num2;
+        return number1 / number2;
     }
 
     public int factorial(int num){
